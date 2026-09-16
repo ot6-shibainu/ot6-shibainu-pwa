@@ -1,1 +1,13 @@
-{"name":"消防設備士乙6・柴犬先生50問","short_name":"乙6問題集","start_url":"./","display":"standalone","background_color":"#fff9fc","theme_color":"#f46fae","lang":"ja","orientation":"portrait","icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml"}]}
+{
+  "name": "消防設備士乙種第6類・柴犬先生スマホ問題集",
+  "short_name": "乙6柴犬先生",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff7fb",
+  "theme_color": "#ff3d86",
+  "description": "電脳主夫が制作する消防設備士乙種第6類のオリジナル学習PWA。",
+  "icons": [
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
